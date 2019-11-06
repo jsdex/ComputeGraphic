@@ -1,2 +1,0 @@
-# ComputeGraphic
-Created with CodeSandbox
